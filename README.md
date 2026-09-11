@@ -17,23 +17,6 @@ Currently, I'm focused on improving my Unity and C# skills by building and refin
 
 ---
 
-## Tech Stack
-
-**Game Development**
-
-* Unity
-* C#
-
-**Mobile Development**
-
-* Android
-
-**Unity Technologies**
-
-* Universal Render Pipeline (URP)
-* Input System
-
----
 ### 🛠️ **Tech Stack & Tools**
 
 | **Category**       | **Technologies**                                                                                                                                                                                   |
