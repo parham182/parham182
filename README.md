@@ -34,6 +34,16 @@ Currently, I'm focused on improving my Unity and C# skills by building and refin
 * Input System
 
 ---
+### 🛠️ **Tech Stack & Tools**
+
+| **Category**       | **Technologies**                                                                                                                                                                                   |
+| :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🎮 Game Engine** | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square\&logo=unity\&logoColor=white)                                                                                                 |
+| **💻 Programming** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)                                                                                                   |
+| **📱 Mobile**      | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)                                                                                           |
+| **🎨 Rendering**   | ![URP](https://img.shields.io/badge/Unity%20URP-000000?style=flat-square\&logo=unity\&logoColor=white)                                                                                             |
+| **🎮 Input**       | ![Input System](https://img.shields.io/badge/Input%20System-000000?style=flat-square\&logo=unity\&logoColor=white)                                                                                 |
+| **🔧 Tools**       | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white) |
 
 ## Featured Projects
 
