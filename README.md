@@ -45,7 +45,7 @@ The player must carefully observe their surroundings and identify changes in the
 
 **Built with:** Unity · C# · URP · Input System · Android
 
-[View Project →](#https://github.com/parham182/AnomalyGame)
+[View Project →](https://github.com/parham182/AnomalyGame)
 
 ---
 
@@ -57,7 +57,7 @@ The project explores interactive building mechanics, object placement, and creat
 
 **Built with:** Unity · C#
 
-[View Project →](#https://github.com/parham182/House-Builder)
+[View Project →](https://github.com/parham182/House-Builder)
 
 ---
 
